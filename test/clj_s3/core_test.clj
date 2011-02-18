@@ -1,0 +1,1 @@
+(ns clj-s3.core-test)
